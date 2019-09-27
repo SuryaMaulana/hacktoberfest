@@ -1,1 +1,1 @@
-* [Robin Lindner](https://github.com/DeepRobin)
+* [Robin Lindner (DeepRobin)](https://github.com/DeepRobin)
