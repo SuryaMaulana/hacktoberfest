@@ -3,3 +3,4 @@
 * [Leo Guilherme (LeoGuilherme)](https://github.com/LeoGuilherme)
 * [Hrushikesh Bodas (HrushikeshBodas)](https://github.com/HrushikeshBodas)
 * [asallay](https://github.com/asallay)
+* [LordBrud](https://github.com/LordBrud)
