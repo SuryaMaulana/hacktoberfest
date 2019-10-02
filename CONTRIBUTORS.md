@@ -4,3 +4,4 @@
 * [Hrushikesh Bodas (HrushikeshBodas)](https://github.com/HrushikeshBodas)
 * [asallay](https://github.com/asallay)
 * [LordBrud](https://github.com/LordBrud)
+* [Muhammad Surya Maulana](https://github.com/suryamaulana)
